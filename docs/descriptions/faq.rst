@@ -5,7 +5,7 @@ FAQ
 
     * **Does TSFEL work on Windows?**
 
-        Yes. By default we disabled multiprocessing in Windows. The multiprocessing in Windows was not completely stable. If you want to enable you can se ``n_jobs`` variable accordingly at your own risk.
+        Yes. By default we disabled multiprocessing in Windows. The multiprocessing in Windows was not completely stable. If you want to enable you can set ``n_jobs`` variable accordingly at your own risk.
 
 
     * **Is it mandatory to pass the sampling rate?**
